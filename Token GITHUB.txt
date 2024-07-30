@@ -1,4 +1,0 @@
-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
-
-
-git config --global user.email 19847745+diegobezzi@users.noreply.github.com
