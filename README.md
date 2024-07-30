@@ -3,6 +3,9 @@
 
 Um simples resumo do uso/propósito do projeto.
 
+### Link para a Aplicação (Live)
+https://telemarketing-3q5v.onrender.com
+
 ## Descrição do projeto
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
@@ -38,8 +41,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+ex. Diego Perez Bezzi Vilas Boas 
+ex. [@DiegoBezzi](https://www.linkedin.com/in/diegobezzi/)
 
 ## Histórico de versões.
 
@@ -62,6 +65,5 @@ Inspiração, trechos de códigos utilizados, etc.
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
-### Link para a Aplicação (Live)
-https://telemarketing-3q5v.onrender.com
+
 
